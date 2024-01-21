@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+}
+
+img {
+  height: 157px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.material-symbols-outlined {
+  font-size: 36px;
+  padding: 5px;
+}
+
+.title h1 {
+  font-size: 36px;
+  color: rgb(58, 58, 114);
+}
