@@ -7,4 +7,4 @@ HTML, Bootstrap and CSS
 
 ## Demo
 
-The project is deployed here: [ https://digital-clock-am.netlify.app](https://travel-with-milo.netlify.app/)https://travel-with-milo.netlify.app/
+The project is deployed here: https://travel-with-milo.netlify.app/
